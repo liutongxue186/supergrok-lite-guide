@@ -27,7 +27,7 @@
 | 上下文长度 | 较短 | API 最高 50 万 Token 级 |
 | 高级语音 / Aurora 生图 | 受限 | 完整 |
 
-> 标准档人民币代充参考约 **¥218/月**，与官网等值（按汇率折算），优势在免国际卡、人民币直付、几分钟到账。价格明细见 [Grok 代充官网](https://www.grokvip.top)。
+> 标准档人民币代充参考约 **¥218/月**，与官网等值（按汇率折算），优势在免国际卡、人民币直付、几分钟到账。价格明细见 [Grok 代充官网](https://grokvip.top)。
 
 ## 结论：Lite 值不值
 
@@ -44,12 +44,12 @@
 
 ## 怎么开通（人民币）
 
-Lite / 标准 / Heavy 都可通过正规代充用人民币开通，权益写入你自己的 Grok 账号，只索账号 ID、不碰密码。下单与档位对比见 [Grok 代充官网](https://www.grokvip.top)；完整档位测评见 [SuperGrok 会员值不值](https://www.grokvip.top/guides/grok-membership-worth-it-2026/)。
+Lite / 标准 / Heavy 都可通过正规代充用人民币开通，权益写入你自己的 Grok 账号，只索账号 ID、不碰密码。下单与档位对比见 [Grok 代充官网](https://grokvip.top)；完整档位测评见 [SuperGrok 会员值不值](https://grokvip.top/guides/grok-membership-worth-it-2026/)。
 
 ## FAQ
 
 **Q：SuperGrok Lite 多少钱？**
-官方 10 美元/月；国内代充人民币参考价以 [Grok 代充官网](https://www.grokvip.top) 实时页面为准。
+官方 10 美元/月；国内代充人民币参考价以 [Grok 代充官网](https://grokvip.top) 实时页面为准。
 
 **Q：Lite 能用 Grok 4.6 吗？**
 Lite 是基础模型档，不含 4.6 旗舰全功能；要 4.6 全访问需标准档或更高。
@@ -65,6 +65,6 @@ Lite 比免费版多了出图、短视频与更稳定额度，但仍远弱于标
 
 ---
 
-延伸阅读：[Grok 代充官网](https://www.grokvip.top) · [SuperGrok Lite 解析](https://www.grokvip.top/guides/supergrok-lite-2026/) · [Grok 国内充值总攻略](https://www.grokvip.top/guides/grok-recharge-china-guide-2026/) · [grok代充 vs 官网直充](https://www.grokvip.top/guides/grok-recharge-vs-official-2026/)
+延伸阅读：[Grok 代充官网](https://grokvip.top) · [SuperGrok Lite 解析](https://grokvip.top/guides/supergrok-lite-2026/) · [Grok 国内充值总攻略](https://grokvip.top/guides/grok-recharge-china-guide-2026/) · [grok代充 vs 官网直充](https://grokvip.top/guides/grok-recharge-vs-official-2026/)
 
 > ⚠️ **免责声明**：本文为个人经验整理，非 xAI 官方指南。代充服务处于平台服务条款（ToS）的灰区，存在账号风控可能，使用前请自行评估风险。价格随渠道波动，以实际下单页为准。请遵守所在地法律法规。
